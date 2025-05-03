@@ -1,0 +1,26 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(32,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(64,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(78,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(92,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(101,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(139,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244: аргумент: преобразование "_Rep" в "_Ty", возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         with
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         [
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:             _Rep=__int64
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         ]
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         and
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         [
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:             _Ty=double
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(204,80): warning C4244:         ]
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244: аргумент: преобразование "_Rep" в "_Ty", возможна потеря данных
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         with
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         [
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:             _Rep=__int64
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         ]
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         and
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         [
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:             _Ty=double
+C:\Users\mynic\Desktop\ЧМ 4\Task\ConsoleApplication1\ConsoleApplication1.cpp(211,80): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> C:\Users\mynic\Desktop\ЧМ 4\Task\x64\Debug\ConsoleApplication1.exe
