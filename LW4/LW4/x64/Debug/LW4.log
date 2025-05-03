@@ -1,0 +1,13 @@
+﻿  calculateError.cpp
+C:\Users\mynic\Desktop\ЧМ 4\LW4\calculateError.cpp(3,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  createMatrixA.cpp
+  createVectorF.cpp
+C:\Users\mynic\Desktop\ЧМ 4\LW4\createVectorF.cpp(3,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  euclideanNorm.cpp
+  LW4.cpp
+  solveWithLU.cpp
+C:\Users\mynic\Desktop\ЧМ 4\LW4\solveWithLU.cpp(3,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  solveWithQR.cpp
+C:\Users\mynic\Desktop\ЧМ 4\LW4\solveWithQR.cpp(3,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  LW4.vcxproj -> C:\Users\mynic\Desktop\ЧМ 4\LW4\x64\Debug\LW4.exe
